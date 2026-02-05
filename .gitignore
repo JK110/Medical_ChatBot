@@ -1,0 +1,25 @@
+# Virtual environment
+myenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model / ML files
+*.pkl
+*.h5
+*.pt
+*.bin
+
+# Data files
+*.csv
+*.xlsx
+*.json
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store

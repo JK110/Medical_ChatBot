@@ -142,14 +142,4 @@ GitHub: https://github.com/JK110
 ---
 
 
-If you want ⭐  
-I can also make:
 
-
-✅ Advanced GitHub README (with badges & visuals)  
-✅ Architecture diagram section  
-✅ Demo GIF section  
-✅ Portfolio optimized README  
-
-
-Just tell 👍

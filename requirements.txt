@@ -9,4 +9,5 @@ langchain-community==0.3.26
 langchain-huggingface
 langchain_huggingface 
 huggingface-hub
+gunicorn
 -e .

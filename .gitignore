@@ -1,5 +1,5 @@
 # Virtual environment
-myenv/
+myvenv/
 venv/
 env/
 
@@ -23,3 +23,8 @@ __pycache__/
 
 # OS files
 .DS_Store
+.env
+.env
+myenv/
+venv/
+__pycache__/

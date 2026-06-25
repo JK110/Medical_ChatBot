@@ -32,7 +32,7 @@ python app.py
 We welcome contributions! Please read our [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## Live Demo
-🔗 [Medical_ChatBot]([https://your-app-url.com](https://huggingface.co/spaces/jk2951/MedicalChat))
+🔗 [Medical_ChatBot](https://huggingface.co/spaces/jk2951/MedicalChat)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
